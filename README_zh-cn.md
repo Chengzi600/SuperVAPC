@@ -7,7 +7,7 @@
 ## 下载
 
 ### 运行在 Windows
-1.从蓝奏云或从Releases下载压缩包文件
+1.从[蓝奏云（密码：1234）](https://wwz.lanzouf.com/b02oz3e9i)或从[Releases](https://github.com/Chengzi600/SuperVAPC/releases)下载压缩包文件
 2.解压所有文件到目录下
 3.运行```SuperVAPC.exe```，享受快乐吧！
 
