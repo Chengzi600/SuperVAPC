@@ -7,7 +7,7 @@ Warning: this warehouse is for reference learning purposes only. This is a testi
 
 ## Install
 ### For Windows
-1.Download the latest ```SuperVAPC-version.zip``` from Releases,
+1.Download the latest ```SuperVAPC-version.zip``` from [Releases](https://github.com/Chengzi600/SuperVAPC/releases),
 
 2.Unzip everything into the directory.
 
