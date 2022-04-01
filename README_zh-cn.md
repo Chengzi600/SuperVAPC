@@ -8,7 +8,9 @@
 
 ### 运行在 Windows
 1.从[蓝奏云（密码：1234）](https://wwz.lanzouf.com/b02oz3e9i)或从[Releases](https://github.com/Chengzi600/SuperVAPC/releases)下载压缩包文件
+
 2.解压所有文件到目录下
+
 3.运行```SuperVAPC.exe```，享受快乐吧！
 
 ### 运行在 Linux
@@ -16,4 +18,5 @@
 
 ## 更新
 1.打开程序，点击软件设置按钮，如弹出防火墙，请允许，如未响应，可重新打开试试
+
 2.选择检查更新，如发现新版本，从Releases或者蓝奏云下载最新版，替换主程序即可
