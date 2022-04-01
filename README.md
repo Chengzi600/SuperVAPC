@@ -16,7 +16,7 @@ Warning: this warehouse is for reference learning purposes only. This is a testi
 3.Execute ```SuperVAPC.exe``` and enjoy it !
 
 ### For Linux
-We didn't support Linux.
+We don't support Linux.
 
 ## Update
 Click the ```setting``` button, select ```check updates```, check for updates, if there are updates, please go to the specified link or download from releases and replace
