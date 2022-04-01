@@ -1,4 +1,5 @@
 # SuperVAPC
+[English](https://github.com/Chengzi600/SuperVAPC/blob/main/README.md) | [简体中文](https://github.com/Chengzi600/SuperVAPC/blob/main/README_zh-cn.md)
 欢迎使用SuperVAPC，从这里获取游戏的非凡乐趣吧!
 
 ## 前言
